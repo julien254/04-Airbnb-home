@@ -94,8 +94,22 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+                        /* CSS GENERAL */
+body {
+    background-color: rgb(224, 233, 224);
+}
 
+    #logoAirbnb {
+    margin-top: -2%;
+    margin-left: 2%;
+    width: 30%;
+}
 
+                       /* CSS HEADER */
+
+.header h1{
+    	font-size: 5em;
+}
 
 
 
